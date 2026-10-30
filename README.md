@@ -23,6 +23,7 @@ Eine local-first App für Android und iOS, die dir zeigt, welche Ansprüche du b
 ## Inhalt
 
 - [Worum geht es?](#worum-geht-es)
+- [Screenshots](#screenshots)
 - [Funktionen](#funktionen)
 - [So funktioniert es](#so-funktioniert-es)
 - [Rechtlicher Hintergrund](#rechtlicher-hintergrund)
@@ -50,6 +51,21 @@ Reine Beleg-Tresore speichern nur Ablaufdaten. Der Reparatur-Kompass geht weiter
 | ⚖️ **Regel-Engine** | Berechnet für jedes Produkt Fristen und mögliche Anspruchswege nach deutschem Recht – inklusive des neuen Reparaturanspruchs gegen Hersteller (§§ 479a ff. BGB). |
 | 🛠️ **Defektfall-Assistent** | Führt Schritt für Schritt durch den Defekt: voraussichtlich bester Weg, Fristen, Musterbrief als PDF und eine Fall-Akte mit Zeitleiste. |
 | 🔒 **Datenschutz** | Alles bleibt auf deinem Gerät. Kein Konto, kein Server, keine Werbung, keine Tracker. |
+
+---
+
+## Screenshots
+
+<div align="center">
+
+| 📚 Bibliothek | 🔎 Produktdetail | 🗂️ Fall-Akte |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/01-bibliothek.png" alt="Bibliothek mit Suche, Statusfiltern und Produkten, sortiert nach der nächsten Frist" width="250"> | <img src="docs/screenshots/02-produktdetail.png" alt="Produktdetail mit Status von Gewährleistung, Beweislastumkehr, Herstellergarantie und Reparaturanspruch sowie dem voraussichtlich besten Weg" width="250"> | <img src="docs/screenshots/03-fallakte.png" alt="Fall-Akte eines Defektfalls mit Eckdaten, Zeitleiste und Anhängen" width="250"> |
+| Alle Produkte mit Status-Chips, sortiert nach der nächsten Frist | Status je Anspruch und der voraussichtlich beste Weg mit „Warum?" | Defektfall mit Antwortfrist und Zeitleiste |
+
+<sub>Alle gezeigten Produkte, Händler und Daten sind synthetische Testdaten.</sub>
+
+</div>
 
 ---
 
