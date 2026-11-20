@@ -6,7 +6,7 @@
 
 Eine local-first App für Verbraucher in Deutschland, die dir zeigt, welche Ansprüche du bei einem gekauften Produkt voraussichtlich noch hast und was du im Defektfall als Nächstes tun kannst.
 
-**🌐 Website und Download: [app.elias-nein.com]([https://app.elias-nein.com](https://app.elias-nein.com/?key=AppQ7mK2xT9vL4nR8sZ3b))**
+**🌐 Website und Download: [app.elias-nein.com]([https://app.elias-nein.com/?key=AppQ7mK2xT9vL4nR8sZ3b])**
 
 [![Website](https://img.shields.io/badge/Website-app.elias--nein.com-1D5A9E)](https://app.elias-nein.com)
 ![Status](https://img.shields.io/badge/Status-Testphase-orange)
